@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f3eba565-350c-4208-a6d6-9800538df7fd" name="Changes" comment="&quot;introdução2&quot;" />
+=======
+    <list default="true" id="f3eba565-350c-4208-a6d6-9800538df7fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Membros/PrimeiraForma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/ExercicosRetangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/ProgramToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/ProgramExRetan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Util/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +34,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/master" />
   </component>
@@ -40,6 +58,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +72,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -67,6 +90,23 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EstruturaCondicional.*" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/estudo/projetoNelio1"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PrimeiraForma">
+    <configuration name="PrimeiraForma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Membros.PrimeiraForma" />
+      <module name="projetoNelio1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Membros.*" />
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,6 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="EncadeamentoEstruturaCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EstruturaCondicional.EncadeamentoEstruturaCondicionais" />
       <module name="projetoNelio1" />
@@ -119,6 +160,14 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EstruturaCondicional.*" />
+=======
+    <configuration name="ProgramExRetan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.entities.ProgramExRetan" />
+      <module name="projetoNelio1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientadaObjeto.entities.*" />
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +177,16 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.ContaTelefone" />
         <item itemvalue="Application.EncadeamentoEstruturaCondicionais" />
         <item itemvalue="Application.IF" />
         <item itemvalue="Application.EstruturaSequencial" />
         <item itemvalue="Application.FuncoesMatematicas" />
+=======
+        <item itemvalue="Application.PrimeiraForma" />
+        <item itemvalue="Application.ProgramExRetan" />
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
       </list>
     </recent_temporary>
   </component>
@@ -207,16 +261,20 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+<<<<<<< HEAD
         <entry key="7ddce822-cc57-4f08-ac81-b63262e82550">
           <value>
             <State />
           </value>
         </entry>
+=======
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+<<<<<<< HEAD
         <entry key="d47d52b3-679a-48a8-886f-c0e03d1a557a">
           <value>
             <State>
@@ -260,5 +318,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;introdução2&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;introdução2&quot;" />
+=======
+      </map>
+    </option>
+>>>>>>> bff71d9334f974127f18955f7d61db093c614b8e
   </component>
 </project>
