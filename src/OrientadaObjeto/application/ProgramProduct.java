@@ -1,7 +1,5 @@
 package OrientadaObjeto.application;
 
-import OrientadaObjeto.entities.Product;
-
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -11,7 +9,7 @@ public class ProgramProduct {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Product product = new Product();
+        ProgramaMaterial product = new ProgramaMaterial();
         System.out.println("Enter product data: ");
         System.out.println("name: ");
         product.name = sc.nextLine();

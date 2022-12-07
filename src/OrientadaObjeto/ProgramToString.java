@@ -1,6 +1,6 @@
 package OrientadaObjeto;
 
-import OrientadaObjeto.entities.Product;
+import OrientadaObjeto.application.ProgramaMaterial;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -11,7 +11,7 @@ public class ProgramToString {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Product product = new Product();
+        ProgramaMaterial product = new ProgramaMaterial();
         System.out.println("Enter product data: ");
         System.out.print("name: ");
         product.name = sc.nextLine();

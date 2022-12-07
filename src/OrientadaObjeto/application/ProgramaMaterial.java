@@ -1,6 +1,6 @@
-package OrientadaObjeto.entities;
+package OrientadaObjeto.application;
 
-public class Product {
+public class ProgramaMaterial {
     public String name;
     public  double price;
     public  int quantity;
