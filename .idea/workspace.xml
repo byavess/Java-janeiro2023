@@ -1,114 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="ca86c70d-abad-4b59-a720-374fbb29925f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula75Construtores/ProgramaMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FuncoesSitaxe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/Exercicios/DepositoBancario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/Exercicios/ProgramaDepositoBancario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/Exercico2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Funcionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Product1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/ContaTelefone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/EncadeamentoEstruturaCondicionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/ExpressaoCondicionalTernaria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/IF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/ScopoEVariavelNaoIniciada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaCondicional/SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/Aula26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/Escaner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/FuncoesMatematicas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/exemploFuncao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturaSequencial/exercicio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstruturasRepetitivas/Debbugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/EstruturaSequencial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaCondicional/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaCondicional/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Membros/PrimeiraForma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Membros/PrimeiraForma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/ExercicosRetangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/ProgramToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/ProgramToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramaMaterial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/entities/ProgramExRetan.java" beforeDir="false" />
+<option name="autoReloadType" value="SELECTIVE" />
+ Updated upstream
+< ?>list default="true" id="ca86c70d-abad-4b59-a720-374fbb29925f" name="Changes" comment=""/>
+<change afterPath="$PROJECT_DIR$/src/Aula75Construtores/ProgramaMaterial.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/FuncoesSitaxe.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/Exercicios/DepositoBancario.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/Exercicios/ProgramaDepositoBancario.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/Exercico2.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Funcionarios.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Material.java" afterDir="false" />
+<change afterPath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Product1.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/ContaTelefone.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/EncadeamentoEstruturaCondicionais.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/ExpressaoCondicionalTernaria.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/IF.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/ScopoEVariavelNaoIniciada.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaCondicional/SwitchCase.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/Aula26.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/Escaner.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/FuncoesMatematicas.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/Main.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/exemploFuncao.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturaSequencial/exercicio1.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/EstruturasRepetitivas/Debbugger.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/Exercicios/EstruturaSequencial.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/src/EstruturaCondicional/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaCondicional/SwitchCase.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/src/Membros/PrimeiraForma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Membros/PrimeiraForma.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/ExercicosRetangulo.java" beforeDir="false" />
+<change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/ProgramToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/ProgramToString.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramProduct.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientadaObjeto/application/ProgramaMaterial.java" afterDir="false" />
+<change beforePath="$PROJECT_DIR$/src/OrientadaObjeto/entities/ProgramExRetan.java" beforeDir="false" />
 =======
-    <list default="true" id="f3eba565-350c-4208-a6d6-9800538df7fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/ProgramSubscricao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/ProgramaCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/ProgramaHeranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/ProgramaPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/BusinesAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/enums/WorkerLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../workspace/adote-backend/src/main/java/br/com/petz/adote/domain/pet/service/impl/PetUsecaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/adote-backend/src/main/java/br/com/petz/adote/domain/pet/service/impl/PetUsecaseImpl.java" afterDir="false" />
->>>>>>> Stashed changes
+<list default="true" id="f3eba565-350c-4208-a6d6-9800538df7fd" name="Changes" comment="">
+  <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/application/ProgramSubscricao.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/application/ProgramaCasting.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/application/ProgramaHeranca.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/application/ProgramaPost.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/Account.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/BusinesAccount.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/Comment.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/Department.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/HourContract.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/Post.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/SavingsAccount.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/Worker.java" afterDir="false" />
+  <change afterPath="$PROJECT_DIR$/src/entities/enums/WorkerLevel.java" afterDir="false" />
+  <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+  <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+  <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+  <change beforePath="$PROJECT_DIR$/../../workspace/adote-backend/src/main/java/br/com/petz/adote/domain/pet/service/impl/PetUsecaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../workspace/adote-backend/src/main/java/br/com/petz/adote/domain/pet/service/impl/PetUsecaseImpl.java" afterDir="false" />
+  >>>>>>> Stashed changes
+</list>
+<option name="SHOW_DIALOG" value="false" />
+<option name="HIGHLIGHT_CONFLICTS" value="true" />
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+<option name="LAST_RESOLUTION" value="IGNORE" />
+<component name="FileTemplateManagerImpl">
+  <option name="RECENT_TEMPLATES">
+    <list>
+      <option value="Enum" />
+      <option value="Class" />
     </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-<<<<<<< Updated upstream
-  <component name="ProjectId" id="2ISfC4iOKsppbbaAlCLd8O3A02M" />
+  </option>
+</component>
+<component name="Git.Settings">
+  <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+</component>
+<component name="MarkdownSettingsMigration">
+  <option name="stateVersion" value="1" />
+</component>
+ Updated upstream
+<component name="ProjectId" id="2ISfC4iOKsppbbaAlCLd8O3A02M" />
 =======
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="2HlhdjhlD9DzSXWn3qJmtPfgOPl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<component name="MavenImportPreferences">
+  <option name="generalSettings">
+    <MavenGeneralSettings>
+      <option name="useMavenConfig" value="true" />
+    </MavenGeneralSettings>
+  </option>
+</component>
+<component name="ProjectId" id="2HlhdjhlD9DzSXWn3qJmtPfgOPl" />
+<component name="ProjectLevelVcsManager" settingsEditedManually="true" />
 >>>>>>> Stashed changes
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-<<<<<<< Updated upstream
-  <component name="PropertiesComponent">{
+<component name="ProjectViewState">
+  <option name="hideEmptyMiddlePackages" value="true" />
+  <option name="showLibraryContents" value="true" />
+</component>
+ Updated upstream
+<component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/WorkSpace/ProfessorNelio/curso_Nelio/projetoNelio1/projetoNelio1.iml&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/hp/WorkSpace/ProfessorNelio/curso_Nelio/projetoNelio1/projetoNelio1.iml&quot;
+  &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+  &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+  &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/WorkSpace/ProfessorNelio/curso_Nelio/projetoNelio1/projetoNelio1.iml&quot;,
+  &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+  &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/hp/WorkSpace/ProfessorNelio/curso_Nelio/projetoNelio1/projetoNelio1.iml&quot;
   }
-}</component>
-  <component name="RunManager" selected="Application.ProgramaDepositoBancario">
-    <configuration name="Aula75Construtores.ProgramaMaterial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula75Construtores.ProgramaMaterial" />
-=======
-  <component name="PropertiesComponent"><![CDATA[{
+  }</component>
+<component name="RunManager" selected="Application.ProgramaDepositoBancario">
+  <configuration name="Aula75Construtores.ProgramaMaterial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="Aula75Construtores.ProgramaMaterial" />
+    =======
+    <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -117,178 +112,177 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="entities" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ProgramSubscricao">
-    <configuration name="PrimeiraForma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Membros.PrimeiraForma" />
->>>>>>> Stashed changes
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula75Construtores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-    <configuration name="Cconstrutores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CosntrutoresThisEncapuslamento.Cconstrutores" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CosntrutoresThisEncapuslamento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncoesSitaxe" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FuncoesSitaxe" />
-      <module name="projetoNelio1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.application.ProgramProduct" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientadaObjeto.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramaDepositoBancario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.Exercicios.ProgramaDepositoBancario" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientadaObjeto.Exercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramaMaterial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <component name="RecentsManager">
+      <key name="CreateClassDialog.RecentsKey">
+        <recent name="entities" />
+      </key>
+    </component>
+    <component name="RunManager" selected="Application.ProgramSubscricao">
+      <configuration name="PrimeiraForma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="Membros.PrimeiraForma" />
+        >>>>>>> Stashed changes
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="Aula75Construtores.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      >>>>>>>   Updated upstream
+      <configuration name="Cconstrutores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="CosntrutoresThisEncapuslamento.Cconstrutores" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="CosntrutoresThisEncapuslamento.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="FuncoesSitaxe" type="Application" factoryName="Application" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="FuncoesSitaxe" />
+        <module name="projetoNelio1" />
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.application.ProgramProduct" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="OrientadaObjeto.application.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramaDepositoBancario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.Exercicios.ProgramaDepositoBancario" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="OrientadaObjeto.Exercicios.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramaMaterial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientadaObjeto.application.ProgramaMaterial" />
-=======
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.Program" />
->>>>>>> Stashed changes
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramSubscricao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.ProgramSubscricao" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.ProgramaCasting" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramaPost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.ProgramaPost" />
-      <module name="projetoNelio1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-<<<<<<< Updated upstream
-        <item itemvalue="Application.ProgramaDepositoBancario" />
-        <item itemvalue="Application.Aula75Construtores.ProgramaMaterial" />
-        <item itemvalue="Application.ProgramaMaterial" />
-        <item itemvalue="Application.Cconstrutores" />
-        <item itemvalue="Application.ProgramProduct" />
-=======
-        <item itemvalue="Application.ProgramSubscricao" />
-        <item itemvalue="Application.ProgramaCasting" />
-        <item itemvalue="Application.ProgramaPost" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.PrimeiraForma" />
->>>>>>> Stashed changes
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ca86c70d-abad-4b59-a720-374fbb29925f" name="Changes" comment="" />
-      <created>1670115376496</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1670115376496</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OrientadaObjeto/entities/Product1.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-</project>
+      =======
+      <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="application.Program" />
+        >>>>>>> Stashed changes
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="application.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramSubscricao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="application.ProgramSubscricao" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="application.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+        <option name="MAIN_CLASS_NAME" value="application.ProgramaCasting" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="application.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <configuration name="ProgramaPost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true"/>
+        <option name="MAIN_CLASS_NAME" value="application.ProgramaPost" />
+        <module name="projetoNelio1" />
+        <extension name="coverage">
+          <pattern>
+            <option name="PATTERN" value="application.*" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </extension>
+        <method v="2">
+          <option name="Make" enabled="true" />
+        </method>
+      </configuration>
+      <recent_temporary>
+        <list>
+          >>>>>>> Updated upstream
+          <item itemvalue="Application.ProgramaDepositoBancario" />
+          <item itemvalue="Application.Aula75Construtores.ProgramaMaterial" />
+          <item itemvalue="Application.ProgramaMaterial" />
+          <item itemvalue="Application.Cconstrutores" />
+          <item itemvalue="Application.ProgramProduct" />
+          =======
+          <item itemvalue="Application.ProgramSubscricao" />
+          <item itemvalue="Application.ProgramaCasting" />
+          <item itemvalue="Application.ProgramaPost" />
+          <item itemvalue="Application.Program" />
+          <item itemvalue="Application.PrimeiraForma" />
+          >>>>>>> Stashed changes
+        </list>
+      </recent_temporary>
+    </component>
+    <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+    <component name="TaskManager">
+      <task active="true" id="Default" summary="Default task">
+        <changelist id="ca86c70d-abad-4b59-a720-374fbb29925f" name="Changes" comment="" />
+        <created>1670115376496</created>
+        <option name="number" value="Default" />
+        <option name="presentableId" value="Default" />
+        <updated>1670115376496</updated>
+      </task>
+      <servers />
+    </component>
+    <component name="Vcs.Log.Tabs.Properties">
+      <option name="TAB_STATES">
+        <map>
+          <entry key="MAIN">
+            <value>
+              <State />
+            </value>
+          </entry>
+        </map>
+      </option>
+    </component>
+    <component name="XDebuggerManager">
+      <breakpoint-manager>
+        <breakpoints>
+          <line-breakpoint enabled="true" type="java-line">
+            <url>file://$PROJECT_DIR$/src/OrientadaObjeto/entities/Product1.java</url>
+            <line>1</line>
+            <option name="timeStamp" value="1" />
+          </line-breakpoint>
+        </breakpoints>
+      </breakpoint-manager>
+    </component>
