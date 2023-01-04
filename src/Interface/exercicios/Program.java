@@ -25,8 +25,8 @@ public class Program {
         System.out.print("Entre om o numero de parcelas: ");
         int n = sc.nextInt();
 
-        ContractService contractService = new ContractService(null);
-        ContractService.processContract(obj,n);
+        ContractService contractService = new ContractService(new PaypalService());
+        contractService.processContract(obj,n);
 
         System.out.println("Parcelas");
         for (Instalmente instalmente : obj.getInstalments()){
