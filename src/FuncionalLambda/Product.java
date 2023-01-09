@@ -29,6 +29,22 @@ public class Product  {
         this.price = price;
     }
 
+//    public static boolean satiticProductPredicate(Product p ){ // trecho de codigo do predicate
+//        return p.getPrice() >= 100.00;
+//    }
+//
+//    public  static void staticPriceUpdate(Product p){
+//        p.setPrice(p.getPrice() * 1.1);
+ //  }
+        public  static String staticCaseName(Product p){
+     return p.getName().toUpperCase() ;
+    }
+    public   String nonStaticCaseName(){
+        return name.toUpperCase() ;
+    }
+
+
+
     @Override
     public String toString() {
         return "Product{" +

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../workspace/adote-backend/adt-backend.iml" filepath="$PROJECT_DIR$/../../workspace/adote-backend/adt-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace/cdm-backend/cdm-backend.iml" filepath="$PROJECT_DIR$/../../workspace/cdm-backend/cdm-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace/pet-backend/pet-backend.iml" filepath="$PROJECT_DIR$/../../workspace/pet-backend/pet-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetoNelio1.iml" filepath="$PROJECT_DIR$/projetoNelio1.iml" />
     </modules>
   </component>
